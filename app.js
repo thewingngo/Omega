@@ -10,8 +10,8 @@ const firebaseConfig = {
   projectId: "thewingngo-224ab",
   storageBucket: "thewingngo-224ab.appspot.com",
   messagingSenderId: "418263706891",
-  appId: "1:418263706891:web:06c719627bb86583e2c60e",
-  measurementId: "G-LG9FL6793Z"
+  appId: "1:418263706891:web:f97a39a477591645e2c60e",
+  measurementId: "G-737D2TTPFH"
 };
 
      
